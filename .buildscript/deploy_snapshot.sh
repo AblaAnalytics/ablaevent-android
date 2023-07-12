@@ -6,7 +6,7 @@
 # http://benlimmer.com/2013/12/26/automatically-publish-javadoc-to-gh-pages-with-travis-ci/
 # and https://github.com/square/javawriter
 
-REPO="posthog-android"
+REPO="ablaevent-android"
 USERNAME="posthog"
 JDK="oraclejdk8"
 BRANCH="master"
