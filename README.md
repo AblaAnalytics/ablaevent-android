@@ -1,16 +1,12 @@
 # Ablaevent Android
 
-Please see the main [PostHog docs](https://posthog.com/docs).
-
-Specifically, the [Android integration](https://posthog.com/docs/integrations/android-integration) details.
-
 ## Development guide
 
 1. Install Android Studio
 2. Follow instructions here for setup https://developer.android.com/studio/run/emulator
 3. Make sure you have Java 8 installed locally - `brew tap adoptopenjdk/openjdk && brew install --cask adoptopenjdk8`
 4. Change the JDK in IntelliJ to build using the correct version.
-5. Select `posthog-sample` and the device on the top bar and click run
+5. Select `ablaevent-sample` and the device on the top bar and click run
 
 ## How to run tests
 
@@ -19,6 +15,4 @@ Specifically, the [Android integration](https://posthog.com/docs/integrations/an
 3. In the file navigation section, go to "Project Files -> Tests".
 4. Right click on a test file to run it or use the toolbar on top.
 
-## Questions?
 
-### [Join our Slack community.](https://join.slack.com/t/posthogusers/shared_invite/enQtOTY0MzU5NjAwMDY3LTc2MWQ0OTZlNjhkODk3ZDI3NDVjMDE1YjgxY2I4ZjI4MzJhZmVmNjJkN2NmMGJmMzc2N2U3Yjc3ZjI5NGFlZDQ)
